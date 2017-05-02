@@ -1,0 +1,15 @@
+As a user
+So that I can remember a specific website
+I want a list of links from the database
+
+As a user
+So that I can update my links of websites
+I would like to add new links to the database
+
+As a user
+So i can specify the type of link
+I want to tag my links
+
+As a user
+So that I can quickly browse my websites
+I would like to filter my database my tags.
